@@ -1,0 +1,77 @@
+SIMPLE SOFTWARE SERVICES AGREEMENT
+
+PARTIES
+
+This Agreement is between ABC RETAIL PTE. LTD. ("Client") and
+XYZ SOFTWARE PTE. LTD. ("Provider").
+
+1. SERVICES
+
+Provider will develop and maintain software for Client according to
+the project specifications agreed by the parties.
+
+2. PAYMENT
+
+Client will pay Provider SGD 50,000 for the project.
+
+Invoices are payable within 14 days after receipt.
+
+3. ACCEPTANCE
+
+Client has 10 Business Days to review each Deliverable.
+
+If Client does not object within 10 Business Days, the Deliverable
+will be considered accepted.
+
+4. TERMINATION
+
+Either party may terminate this Agreement for material breach by
+giving 30 days' written notice.
+
+After termination, Client must pay Provider for all work completed
+before the termination date.
+
+5. LIABILITY
+
+Provider's total liability under this Agreement is limited to
+SGD 50,000.
+
+This limitation does not apply to losses arising from Provider's
+breach of this Agreement.
+
+6. CONFIDENTIALITY
+
+Each party must keep the other's confidential information secret.
+
+These obligations continue for one year after termination.
+
+7. INTELLECTUAL PROPERTY
+
+Client will own the software created specifically for Client after
+Client has paid all amounts due.
+
+Provider may continue to use its existing tools and libraries.
+
+8. DATA
+
+Provider may process Client information as necessary to provide
+the Services.
+
+Provider will take reasonable steps to protect Client information.
+
+9. NOTICES
+
+Notices are effective when sent by email to the last email address
+provided by the receiving party.
+
+10. GOVERNING LAW
+
+This Agreement is governed by the laws of Singapore.
+
+11. DISPUTES
+
+The parties will first try to resolve disputes through good-faith
+negotiations.
+
+If the dispute cannot be resolved, either party may commence
+proceedings in the courts of Singapore.

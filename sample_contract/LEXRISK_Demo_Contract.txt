@@ -1,0 +1,226 @@
+MASTER SOFTWARE SERVICES AGREEMENT
+
+This Master Software Services Agreement (“Agreement”) is entered into between:
+
+(1) NORTHSTAR RETAIL PTE. LTD., a company incorporated in Singapore
+(“Client”); and
+
+(2) VECTOR CLOUD SYSTEMS PTE. LTD., a company incorporated in Singapore
+(“Service Provider”).
+
+The parties agree as follows.
+
+1. DEFINITIONS
+
+1.1 “Services” means the software development, implementation, hosting,
+maintenance and support services described in an applicable Statement of Work.
+
+1.2 “Deliverables” means software, documentation, configurations and other
+materials specifically identified as deliverables in a Statement of Work.
+
+1.3 “Acceptance” means written confirmation by Client that a Deliverable
+materially conforms to the applicable specifications.
+
+1.4 “Business Day” means a day on which banks are open for business in
+Singapore.
+
+2. SERVICES
+
+2.1 Service Provider shall perform the Services in accordance with the
+applicable Statement of Work.
+
+2.2 Service Provider may use subcontractors to perform portions of the
+Services, provided that Service Provider remains responsible for their acts
+and omissions.
+
+2.3 Client shall provide reasonable cooperation and access to information
+required for Service Provider to perform the Services.
+
+3. FEES AND PAYMENT
+
+3.1 Client shall pay the fees specified in each Statement of Work.
+
+3.2 For the initial implementation, Client shall pay SGD 250,000 upon
+completion of the first milestone.
+
+3.3 Invoices are payable within thirty (30) days after receipt.
+
+3.4 If Client disputes an invoice in good faith, Client may withhold the
+disputed amount until the dispute is resolved.
+
+3.5 All completed milestones shall be deemed accepted for payment purposes
+unless Client provides written objections within five (5) Business Days.
+
+4. ACCEPTANCE
+
+4.1 Client shall review each Deliverable within ten (10) Business Days after
+delivery.
+
+4.2 If a Deliverable does not materially conform to the agreed specifications,
+Client shall provide written notice describing the material deficiencies.
+
+4.3 Service Provider shall correct material deficiencies and resubmit the
+Deliverable for review.
+
+4.4 If Client does not respond within ten (10) Business Days, the Deliverable
+shall be deemed accepted.
+
+5. INTELLECTUAL PROPERTY
+
+5.1 Client owns all intellectual property rights in Deliverables specifically
+created for Client and paid for by Client.
+
+5.2 Service Provider retains all rights in its pre-existing software,
+libraries, frameworks, tools, know-how and generic components.
+
+5.3 To the extent Service Provider materials are incorporated into a
+Deliverable, Service Provider grants Client a perpetual, worldwide,
+non-exclusive licence to use such materials as part of the Deliverable.
+
+5.4 Client may modify, reproduce and distribute Deliverables internally.
+
+6. CONFIDENTIALITY
+
+6.1 Each party shall keep confidential all non-public information received
+from the other party in connection with this Agreement.
+
+6.2 Confidential information may be disclosed to employees, professional
+advisers and subcontractors who have a need to know such information and are
+bound by confidentiality obligations.
+
+6.3 These confidentiality obligations shall continue for two (2) years after
+termination of this Agreement.
+
+6.4 Information that is independently developed without use of the other
+party's confidential information shall not be considered confidential.
+
+7. DATA PROTECTION AND SECURITY
+
+7.1 Service Provider shall implement reasonable technical and organisational
+measures to protect Client Data against unauthorised access, disclosure,
+alteration or destruction.
+
+7.2 Service Provider shall notify Client of a confirmed security incident
+affecting Client Data without undue delay after becoming aware of the
+incident.
+
+7.3 Service Provider may process Client Data through hosting infrastructure
+located outside Singapore where reasonably required to provide the Services.
+
+7.4 Client is responsible for ensuring that it has all necessary rights and
+permissions to provide Client Data to Service Provider.
+
+8. WARRANTIES
+
+8.1 Service Provider warrants that the Services shall be performed with
+reasonable skill and care.
+
+8.2 Service Provider warrants that the Deliverables will materially conform
+to the applicable specifications for thirty (30) days after Acceptance.
+
+8.3 The warranties in this Section are the exclusive warranties provided by
+Service Provider in connection with the Services.
+
+9. INDEMNIFICATION
+
+9.1 Each party shall indemnify the other party against third-party claims
+arising from its breach of this Agreement.
+
+9.2 Service Provider shall defend and indemnify Client against third-party
+claims alleging that a Deliverable infringes a third party's intellectual
+property rights.
+
+9.3 The indemnified party shall promptly notify the indemnifying party of
+any claim and provide reasonable cooperation.
+
+9.4 The indemnifying party shall control the defence and settlement of the
+claim, provided that it shall not settle any claim in a manner admitting
+liability by or imposing non-monetary obligations on the indemnified party
+without that party's consent.
+
+10. LIMITATION OF LIABILITY
+
+10.1 Except for amounts payable under Section 9, each party's aggregate
+liability arising out of or in connection with this Agreement shall not
+exceed the total fees paid or payable during the twelve (12) months
+preceding the event giving rise to the claim.
+
+10.2 Neither party shall be liable for any indirect, incidental, special or
+consequential loss, including loss of profits, revenue or anticipated
+savings.
+
+10.3 Nothing in this Agreement limits liability to the extent such limitation
+is prohibited by applicable law.
+
+11. TERM AND TERMINATION
+
+11.1 This Agreement begins on the Effective Date and continues for two (2)
+years unless terminated earlier in accordance with this Section.
+
+11.2 Either party may terminate this Agreement for material breach if the
+breach remains uncured for thirty (30) days after written notice.
+
+11.3 Client may terminate a Statement of Work for convenience upon thirty (30)
+days' written notice.
+
+11.4 Upon termination, Client shall pay Service Provider for all Services
+performed and Deliverables completed up to the effective date of termination.
+
+11.5 Sections 5, 6, 9 and 10 shall survive termination.
+
+12. NOTICES
+
+12.1 Any notice under this Agreement shall be effective when sent by email
+to the email address designated by the receiving party.
+
+12.2 A party may change its designated email address by giving notice under
+this Section.
+
+12.3 Notices relating to termination shall be copied to the other party's
+contract manager.
+
+13. DISPUTE RESOLUTION
+
+13.1 The parties shall first attempt in good faith to resolve any dispute
+through discussions between senior representatives.
+
+13.2 If the dispute has not been resolved within thirty (30) days, either
+party may commence proceedings in the courts of Singapore.
+
+13.3 Nothing in this Section prevents a party from seeking urgent interim
+relief where necessary to protect its rights.
+
+14. GENERAL
+
+14.1 Neither party may assign this Agreement without the prior written
+consent of the other party, except to an affiliate or in connection with a
+merger, acquisition or sale of substantially all of its assets.
+
+14.2 This Agreement and each Statement of Work constitute the entire
+agreement between the parties concerning their subject matter.
+
+14.3 If there is a conflict between this Agreement and a Statement of Work,
+the Statement of Work shall prevail with respect to the Services described
+in that Statement of Work.
+
+14.4 No amendment to this Agreement is effective unless made in writing and
+signed by authorised representatives of both parties.
+
+14.5 A failure or delay in exercising a right does not constitute a waiver
+of that right.
+
+15. GOVERNING LAW
+
+15.1 This Agreement shall be governed by the laws of Singapore.
+
+SIGNED for and on behalf of NORTHSTAR RETAIL PTE. LTD.
+
+Name:
+Title:
+Date:
+
+SIGNED for and on behalf of VECTOR CLOUD SYSTEMS PTE. LTD.
+
+Name:
+Title:
+Date:
